@@ -1,0 +1,113 @@
+Tour 1 :
+equipe Zen
+ 1 - 0 equipe Bolt
+
+equipe Bolt
+ 1 - 0 equipe Rex
+
+equipe Rex
+ 1 - 0 equipe Wasp
+
+equipe Wasp
+ 0 - 1 equipe Kim
+
+
+Tour 2 :
+equipe Zen
+ 1 - 0 equipe Rex
+
+equipe Bolt
+ 0 - 1 equipe Wasp
+
+equipe Rex
+ 1 - 0 equipe Kim
+
+equipe Wasp
+ 0 - 1 equipe Fox
+
+
+Tour 3 :
+equipe Zen
+ 1 - 0 equipe Wasp
+
+equipe Bolt
+ 1 - 0 equipe Kim
+
+equipe Rex
+ 1 - 0 equipe Fox
+
+equipe Wasp
+ 1 - 0 equipe Li
+
+
+Tour 4 :
+equipe Zen
+ 0 - 1 equipe Kim
+
+equipe Bolt
+ 1 - 0 equipe Fox
+
+equipe Rex
+ 0 - 1 equipe Li
+
+equipe Wasp
+ 0 - -1 equipe Blaze
+
+Tour 5 :
+equipe Zen
+ 0 - 1 equipe Fox
+
+equipe Bolt
+ 0 - 1 equipe Li
+
+equipe Rex
+ 0 - -1 equipe Blaze
+equipe Wasp
+ 1 - 0 equipe Zen
+
+
+Tour 6 :
+equipe Zen
+ 0 - 1 equipe Li
+
+equipe Bolt
+ 0 - -1 equipe Blaze
+equipe Rex
+ 1 - 0 equipe Zen
+
+equipe Wasp
+ 1 - 0 equipe Bolt
+
+
+Tour 7 :
+equipe Zen
+ 0 - -1 equipe Blaze
+equipe Bolt
+ 1 - 0 equipe Zen
+
+equipe Rex
+ 1 - 0 equipe Bolt
+
+equipe Wasp
+ 0 - 1 equipe Rex
+
+
+Scores finaux :
+equipe Zen
+ : 3
+equipe Bolt
+ : 4
+equipe Rex
+ : 6
+equipe Wasp
+ : 4
+equipe Kim
+ : 2
+equipe Fox
+ : 2
+equipe Li
+ : 3
+equipe Blaze : 0
+
+Le gagnant est equipe Rex
+ avec un score de 6 !

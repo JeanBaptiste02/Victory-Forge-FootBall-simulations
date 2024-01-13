@@ -1,0 +1,8 @@
+equipe Zen
+equipe Bolt
+equipe Rex
+equipe Wasp
+equipe Kim
+equipe Fox
+equipe Li
+equipe Blaze
