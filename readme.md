@@ -66,6 +66,6 @@ Une fois tous les tours terminés, le programme affiche un récapitulatif comple
 
 - C
 
-## Copyright © 2024 Jean-Baptiste DAMODARANE
+## Copyright © Jean-Baptiste DAMODARANE
 
-Le projet a été réalisé dans le cadre du cours de Licence 3 Informatique - B à CY Cergy Paris Université.
+Le projet a été réalisé dans le cadre du cours de Licence 3 Informatique à CY Cergy Paris Université.
