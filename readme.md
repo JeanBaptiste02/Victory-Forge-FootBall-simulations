@@ -2,6 +2,8 @@
 
 Le projet Victory-Forge vise à créer un logiciel en langage C permettant la simulation de tournois de football. Le programme prend en charge un nombre d'équipes fixé à l'avance, collecte les données d'entrée à partir d'un fichier texte, et exécute chaque match sur un processus distinct pour assurer une exécution fluide du tournoi.
 
+## MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 ## Fonctionnalités
 
